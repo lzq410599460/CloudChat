@@ -1,0 +1,6 @@
+framework module Pods_CloudChat {
+  umbrella header "Pods-CloudChat-umbrella.h"
+
+  export *
+  module * { export * }
+}
